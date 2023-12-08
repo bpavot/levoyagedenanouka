@@ -2191,15 +2191,15 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .p1-gradient-bg, .primary-btn, .banner-area, .single-price:hover .price-bottom, .call-to-action-area, .single-footer-widget .click-btn, .generic-banner {
-  background-image: -moz-linear-gradient(90deg, #f45622 0%, #f53e54 100%);
-  background-image: -webkit-linear-gradient(90deg, #f45622 0%, #f53e54 100%);
-  background-image: -ms-linear-gradient(90deg, #f45622 0%, #f53e54 100%);
+  background-image: -moz-linear-gradient(90deg, #3cd7b3 0%, #4695b5 100%);
+  background-image: -webkit-linear-gradient(90deg, #3cd7b3 0%, #4695b5 100%);
+  background-image: -ms-linear-gradient(90deg, #3cd7b3 0%, #4695b5 100%);
 }
 
 .p1-gradient-color, .footer-social a:hover i, .single-footer-widget .bb-btn {
-  background: -moz-linear-gradient(90deg, #f45622 0%, #f53e54 100%);
-  background: -webkit-linear-gradient(90deg, #f45622 0%, #f53e54 100%);
-  background: -ms-linear-gradient(90deg, #f45622 0%, #f53e54 100%);
+  background: -moz-linear-gradient(90deg, #3cd7b3 0%, #4695b5 100%);
+  background: -webkit-linear-gradient(90deg, #3cd7b3 0%, #4695b5 100%);
+  background: -ms-linear-gradient(90deg, #3cd7b3 0%, #4695b5 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -2286,7 +2286,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .banner-content h1 {
   color: #fff;
-  font-size: 72px;
+  font-size: 62px;
   font-weight: 700;
   line-height: 1em;
   margin-top: 20px;
@@ -2298,7 +2298,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 @media (max-width: 991.98px) {
   .banner-content h1 {
-    font-size: 36px;
+    font-size: 26px;
   }
 }
 
@@ -2310,13 +2310,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 @media (max-width: 1199.98px) {
   .banner-content h1 {
-    font-size: 45px;
+    font-size: 35px;
   }
 }
 
 @media (max-width: 414px) {
   .banner-content h1 {
-    font-size: 40px;
+    font-size: 30px;
   }
 }
 
