@@ -2948,3 +2948,36 @@ h6 {
 .switch-wrap p {
   margin: 0;
 }
+
+.single-price-2 {
+  text-align: center;
+  border: 1px solid #eeeeee;
+}
+
+.single-price-2 .price-top {
+  background-color: #fbfcff;
+  border-bottom: 1px solid #eeeeee;
+  padding: 30px 0px;
+}
+
+.single-price-2 .price-bottom {
+  background-color: #f9f9ff;
+  margin: 0 45px 45px 45px;
+  padding: 35px;
+}
+
+.single-price-2 .price-bottom h1 {
+  font-size: 30px;
+  font-weight: 300;
+}
+
+.single-price-2 .price-bottom h1 span {
+  font-size: 25px;
+  margin-top: -14px;
+  position: absolute;
+  margin-left: 3px;
+}
+
+.single-price-2 p {
+  padding: 30px 0px;
+}
