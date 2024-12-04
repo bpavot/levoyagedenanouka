@@ -1,0 +1,19 @@
+<svg viewBox="0 0 33 24" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700');
+
+text {
+	dominant-baseline: middle;
+	font-family: 'Poppins';
+	font-size: 14px;
+	text-anchor: middle;
+    fill: #777777;
+}
+</style>
+
+<a href="mailto:levoyagedenanouka@pavot.me">
+	<text x="50%" y="50%">levoyagedenanouka@pavot.me</text>
+</a>
+
+</svg>
